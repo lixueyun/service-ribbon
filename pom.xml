@@ -50,6 +50,13 @@
 			<version>1.4.5.RELEASE</version>
 		</dependency>
 
+		<!--springCloud hystrix-->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-hystrix</artifactId>
+			<version>1.4.5.RELEASE</version>
+		</dependency>
+
 		<!-- 热部署 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
